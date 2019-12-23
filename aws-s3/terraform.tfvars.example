@@ -1,0 +1,8 @@
+
+aws_access_key = "OIHOHFKJSHLFKJHLKSSK"
+aws_secret_key = "KLJHlhlhLKHkOLHlhlHLKJhkJHlkjhKhkGHkHkJH"
+aws_region     = "eu-central-1" # EU (Frankfurt)
+
+certificate_domain_name = "example.com"
+website_host            = "example.com"
+website_username        = "example-com-admin"

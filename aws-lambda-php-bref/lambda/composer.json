@@ -1,0 +1,8 @@
+{
+    "name": "zema/lambda",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "bref/bref": "^0.5.11"
+    }
+}
